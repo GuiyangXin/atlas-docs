@@ -1,0 +1,6 @@
+site_name: Atlas docs
+pages:
+    - Home: index.md
+    - Connecting the robot to the Ebox: connect-to-ebox.md
+    - Robot Log: robotlog.md
+theme: readthedocs
