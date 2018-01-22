@@ -2,4 +2,5 @@ site_name: Atlas docs
 pages:
     - Home: index.md
     - Connecting the robot to the Ebox: connect-to-ebox.md
+    - Known working setup: known-working-setup.md
 theme: readthedocs
